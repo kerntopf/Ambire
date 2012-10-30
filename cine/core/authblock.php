@@ -1,5 +1,5 @@
 <?php
-include('bdconfs.php');
+include('perfis.php');
 $redir = '<script language="javascript">window.location="/index.php"; </script>';
 if(!isset($_COOKIE['ulog']))
 	{

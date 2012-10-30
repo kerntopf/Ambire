@@ -16,10 +16,9 @@ KEY (`id`)
 ) ENGINE = MyISAM;");
   if(Isset($_COOKIE['ulog'])
   {
-  $user_prof = array (mysql_fetch_assoc(mysql_query("SELECT * FROM `login` WHERE `id` = '".$_COOKIE['ulog']."';"
-);
+  $user = array (mysql_fetch_assoc(mysql_query("SELECT * FROM `login` WHERE `id` = '".$_COOKIE['ulog']."';")));
   }
-$user_prof = array (
+$user = array (
 "nome" => "Visitante",
 "foto" => "/img/sem_foto.png",
 );
