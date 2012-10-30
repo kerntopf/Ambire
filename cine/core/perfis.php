@@ -20,6 +20,6 @@ KEY (`id`)
   }
 $user = array (
 "nome" => "Visitante",
-"foto" => "/img/sem_foto.png",
+"foto" => "/cine/img/sem_foto.png",
 );
 ?>
