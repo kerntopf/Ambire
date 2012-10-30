@@ -26,6 +26,7 @@ Atenciosamente, Rovelcio Backes Junior - Gestor do Fórum e Desenvolvimento de Ap
 -------
 - Alessandra Rachadel
 - Ana Carolina Salomão
+- Jeronimo Velasquez
 - Pedro Bilck Junior
 - Rovelcio Backes Junior
 - Santiago Piovesan
