@@ -7,8 +7,8 @@ $init_table_if_not_initialized = mysql_query("CREATE TABLE IF NO EXISTS `perfil`
 `turma` INT(3) NOT NULL,
 `sexo` ENUM('Masculino','Feminino') NOT NULL,
 `aval` ENUM('Péssimo','Ruim','Regular','Indefinido','Razoável','Bom','Ótimo') NOT NULL DEFAULT 'Indefinido',
-`foto` VARCHAR(120) DEFAULT '/img/semfoto.png',
-'stat' ENUM('Online','Offline','Invisivel') NOT NULL DEFAULT 'Offline',
+`foto` VARCHAR(120) DEFAULT '/img/sem_foto.png',
+'stat' ENUM('Online','Offline') NOT NULL DEFAULT 'Offline',
 KEY (`id`)
 ) ENGINE = MyISAM;");
   if(Isset($_COOKIE['ulog'])
@@ -23,6 +23,7 @@ $user_prof = array (
 "turma" => 0,
 "sexo" => "Indefinido",
 "aval" => "Indefinida",
-"foto" => "/img/semfoto.png"
+"foto" => "/img/sem_foto.png",
+"stat" => "Offline"
 );
 ?>
