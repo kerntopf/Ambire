@@ -9,4 +9,5 @@ if($user['auth'] < 30)
 	{
 	echo($redir);
 	}
+	unset($redir);
 ?>

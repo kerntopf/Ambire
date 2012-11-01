@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 include('bdconf.php');
-$init_table_if_not_initialized = mysql_query("CREATE TABLE IF NO EXISTS `login` (
+$init_table_if_not_initialized = mysql_query("CREATE TABLE IF NOT EXISTS `login` (
 `id` INT(15) NOT NULL AUTO_INCREMENT,
 `matricula` INT(17) NOT NULL,
 `nome` VARCHAR(30) NOT NULL,
@@ -14,12 +14,12 @@ $init_table_if_not_initialized = mysql_query("CREATE TABLE IF NO EXISTS `login` 
 `ultimologin` VARCHAR(10) NOT NULL DEFAULT '--/--/----',
 KEY (`id`)
 ) ENGINE = MyISAM;");
-  if(Isset($_COOKIE['ulog'])
+  if(Isset($_COOKIE['ulog']))
   {
   $user = array (mysql_fetch_assoc(mysql_query("SELECT * FROM `login` WHERE `id` = '".$_COOKIE['ulog']."';")));
   }
 $user = array (
-"nome" => "Visitante",
-"foto" => "/cine/img/sem_foto.png",
+'nome' => '<a href="login.php">Visitante</a>',
+'foto' => 'img/sem_foto.png',
 );
 ?>
