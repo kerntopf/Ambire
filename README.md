@@ -4,28 +4,28 @@ Bem-vindo!
 
 --------------------
 ###Projeto Ambire
-Seja bem-vindo. Esta é a página de Desenvolvimento de Aplicações Web e Executáveis do projeto Ambire. Se você não é um dos desenvolvedores do Ambire, sinta-se livre para utilizar estes códigos para suas aplicações. Os sistemas aqui hospedados são de código aberto, o que significa que permitimos o uso integral ou parcial de nossos códigos, como estipulado pela Terceira Versão da Licensa Pública Geral (inglês). Embora livre, o uso dos códigos do projeto possui restrições legais que caso rompidas, implicarão em processos judiciais de acordo com o nível de infração. São as seguintes: 
+Seja bem-vindo. Esta Ã© a pÃ¡gina de Desenvolvimento de AplicaÃ§Ãµes Web e ExecutÃ¡veis do projeto Ambire. Se vocÃª nÃ£o Ã© um dos desenvolvedores do Ambire, sinta-se livre para utilizar estes cÃ³digos para suas aplicaÃ§Ãµes. Os sistemas aqui hospedados sÃ£o de cÃ³digo aberto, o que significa que permitimos o uso integral ou parcial de nossos cÃ³digos, como estipulado pela Terceira VersÃ£o da Licensa PÃºblica Geral (inglÃªs). Embora livre, o uso dos cÃ³digos do projeto possui restriÃ§Ãµes legais que caso rompidas, implicarÃ£o em processos judiciais de acordo com o nÃ­vel de infraÃ§Ã£o. SÃ£o as seguintes: 
 
 ###Nome Legal do Projeto:
-Nosso projeto e suas aplicações têm nomes específicos. O nome "Ambire" está protegido por direitos autorais da categoria e não pode ser usado junto aos códigos, portanto, altere qualquer parte do código que explicite o nome dos projetos. Tenha em mente que a punição para infrações de direitos autorais varia entre indenizações (dependendo do porte do projeto) a reclusões (de 3 a 5 anos). 
+Nosso projeto e suas aplicaÃ§Ãµes tÃªm nomes especÃ­ficos. O nome "Ambire" estÃ¡ protegido por direitos autorais da categoria e nÃ£o pode ser usado junto aos cÃ³digos, portanto, altere qualquer parte do cÃ³digo que explicite o nome dos projetos. Tenha em mente que a puniÃ§Ã£o para infraÃ§Ãµeses de direitos autorais varia entre indenizaÃ§Ãµes (dependendo do porte do projeto) a reclusÃµes (de 3 a 5 anos). 
 
-###Distribuição:
-Nosso projeto, por ser de código aberto, não pode ser vendido em sua integridade. Você pode comercializar serviços de ALTERAÇÃO ou CRIAÇÃO de novos códigos PARA o projeto, mas a venda de códigos nativos deste repositório é punida cívicamente, da mesma forma que as outras infrações. 
+###DistribuiÃ§Ã£o:
+Nosso projeto, por ser de cÃ³digo aberto, nÃ£o pode ser vendido em sua integridade. VocÃª pode comercializar serviÃ§os de ALTERAÃ‡ÃƒO ou CRIAÃ‡ÃƒO de novos cÃ³digos PARA o projeto, mas a venda de cÃ³digos nativos deste repositÃ³rio Ã© punida civicamente, da mesma forma que as outras infraÃ§Ãµes. 
 
 ###Agradecimentos
 --------------
-A Equipe de Desenvolvimento e Administração do Ambire IEE tem considerações especiais pelos seguintes, patrocinadores e(ou) apoiadores diretos do projeto:
+A Equipe de Desenvolvimento e AdministraÃ§Ã£o do Ambire IEE tem consideraÃ§Ãµes especiais pelos seguintes, patrocinadores e(ou) apoiadores diretos do projeto:
 
-Primeiramente, ao professor de Biologia Gustavo Franthesco Kerntopf, responsável pela total idealização e gerenciamento do projeto. Sem ele, nada disso existiria, e até mesmo quem sabe, seria possível! 
+Primeiramente, ao professor de Biologia Gustavo Franthesco Kerntopf, responsÃ¡vel pela total idealizaÃ§Ã£o e gerenciamento do projeto. Sem ele, nada disso existiria, e atÃ© mesmo quem sabe, seria possÃ¡vel! 
 
-A Diretoria do Instituto Estadual de Educação, por nos apoiar e nos escolher como Projeto de 1ª Colocação da Amostra Científica e Cultural do IEE - 2012, o que garantiu que nosso projeto fosse reconhecido por todo o nosso esforço para o desenvolver. 
+A Diretoria do Instituto Estadual de EducaÃ§Ã£o, por nos apoiar e nos escolher como Projeto de 1Âª ColocaÃ§Ã£o da Amostra CientÃ­fica e Cultural do IEE - 2012, o que garantiu que nosso projeto fosse reconhecido por todo o nosso esforÃ§o para o desenvolver. 
 
-Atenciosamente, Rovelcio Backes Junior - Gestor do Fórum e Desenvolvimento de Aplicações.
+Atenciosamente, Rovelcio Backes Junior - Gestor do FÃ³rum e Desenvolvimento de AplicaÃ§Ãµes.
 
 ###Equipe de Desenvolvimento:
 -------
 - Alessandra Rachadel
-- Ana Carolina Salomão
+- Ana Carolina SalomÃ£o
 - Jeronimo Velasquez
 - Pedro Bilck Junior
 - Rovelcio Backes Junior
